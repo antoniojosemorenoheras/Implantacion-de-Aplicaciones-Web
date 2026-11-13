@@ -11,4 +11,4 @@ seguir = "s"
 while seguir != "n":
     fruta = input("Introduce el nombre de la fruta (0 para salir): ")
     cantidad = float(input("Introduce la cantidad que se ha vendido de esa fruta: "))
-
+    seguir = input
